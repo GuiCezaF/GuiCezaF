@@ -1,7 +1,7 @@
 ### Olá 👋 Meu Nome é Guilherme
 
 <h2>Sobre Mim: </h2>
-<p> Olá, me chamo Guilherme atualmente tenho 19 anos de idade e sempre tive interesse em programação e tecnologia, no inicio era apenas um hobby, porém resolvi transformar em uma escolha profissional, iniciando o ano de 2023 com a faculdade de engenharia da computação para poder me aprofundar na área, tendo como meta do ano desenvolver diversos projetos. </p>
+<p> Olá, me chamo Guilherme atualmente tenho 20 anos de idade e sempre tive interesse em programação e tecnologia, no inicio era apenas um hobby, porém resolvi transformar em uma escolha profissional, iniciando o ano de 2023 com a faculdade de engenharia da computação para poder me aprofundar na área, tendo como meta do ano desenvolver diversos projetos. </p>
 
 <h3>Tecnologias que estou programando:</h3>
 
