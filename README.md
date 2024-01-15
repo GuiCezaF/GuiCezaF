@@ -3,9 +3,6 @@
 <h2>Sobre Mim: </h2>
 <p> Olá, me chamo Guilherme atualmente tenho 20 anos de idade e sempre tive interesse em programação e tecnologia, no inicio era apenas um hobby, porém resolvi transformar em uma escolha profissional, iniciando o ano de 2023 com a faculdade de engenharia da computação para poder me aprofundar na área, tendo como meta do ano desenvolver diversos projetos. </p>
 
-<h3>Tecnologias que estou programando:</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
 
 <h3>Contatos</h3>
 
