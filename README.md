@@ -1,13 +1,13 @@
 ### Olá 👋 Meu Nome é Guilherme
 
 <h2>Sobre Mim: </h2>
-<p> Olá, me chamo Guilherme atualmente tenho 20 anos de idade e sempre tive interesse em programação e tecnologia, no inicio era apenas um hobby, porém resolvi transformar em uma escolha profissional, iniciando o ano de 2023 com a faculdade de engenharia da computação para poder me aprofundar na área, tendo como meta do ano desenvolver diversos projetos. </p>
+<p> Olá, me chamo Guilherme tenho 20 anos de idade e sempre tive interesse em programação e tecnologia, no inicio era apenas um hobby, porém resolvi transformar em uma escolha profissional, iniciando o ano de 2023 com a faculdade de engenharia da computação para poder me aprofundar na área, atualmente estou como estagiario na RETTA TI desenvolvendo e dando manutenção em diversos projetos. </p>
 
 
 <h3>Contatos</h3>
 
 <div>
-<a href = "mailto:conato.guicezafe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato.guicezafe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/guilherme-cezarino-felipe-a57893265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
