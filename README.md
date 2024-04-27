@@ -11,7 +11,7 @@ Olá, me chamo Guilherme Cezarino Felipe tenho 20 anos de idade e sempre tive in
 </div>
 
 ### Tecnologias que estou trabalhando!
-<div style="display:inline_block;margin:0 0 0 0;"></br>
+<div style="display:inline_block;margin:0 0 0 0;">
 <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
