@@ -31,7 +31,7 @@ Olá, me chamo Guilherme Cezarino Felipe tenho 20 anos de idade e sempre tive in
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiCezaF&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false"/>
 </div>
 
-![snake gif](https://github.com/GuiCezaF/GuiCezaF/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/GuiCezaF/GuiCezaF/output/snake.svg)
 
 
 
