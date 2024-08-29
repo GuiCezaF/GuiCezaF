@@ -18,10 +18,8 @@ Olá, me chamo Guilherme Cezarino Felipe tenho 20 anos de idade e sempre tive in
 <div>
   <img align="left" src="https://skillicons.dev/icons?i=react,cs,dotnet,django,py,postgres,mysql,js,ts,nodejs,docker&theme=dark&perline=4" />
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCezaF&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCezaF&hide=html,php,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=24&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"/>
 </div>
-
-
 
 
 ![snake gif](https://raw.githubusercontent.com/GuiCezaF/GuiCezaF/output/snake.svg)
