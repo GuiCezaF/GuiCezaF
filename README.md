@@ -1,4 +1,8 @@
-# Olá 👋 Meu Nome é Guilherme
+<h1 align="center"> Olá 👋 Meu Nome é Guilherme</h1>
+
+<div align="center">
+  <b>FullStack developer | information security enthusiast </b>
+</div>
 
 ## Sobre Mim: 
 Olá, me chamo Guilherme Cezarino Felipe tenho 20 anos de idade e sempre tive interesse em programação e tecnologia, no inicio era apenas um hobby, porém resolvi transformar em uma escolha profissional, iniciando o ano de 2023 com a faculdade de engenharia da computação para poder me aprofundar na área, atualmente estou como estagiário na RETTA TI desenvolvendo e dando manutenção em diversos projetos.
@@ -6,30 +10,19 @@ Olá, me chamo Guilherme Cezarino Felipe tenho 20 anos de idade e sempre tive in
 ### Contatos
 
 <div>
-<a href = "mailto:contato.guicezafe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-cezarino-felipe-a57893265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:contato.guicezafe@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-cezarino-felipe-a57893265/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" target="_blank"></a>   
 </div>
 
 ### Tecnologias que estou trabalhando!
-<div style="display:inline_block;margin:0 0 0 0;">
-  <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img style="margin:2px 2px 2px 2px;" align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</div>
-</br>
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCezaF&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img align="left" src="https://skillicons.dev/icons?i=react,cs,dotnet,django,py,postgres,mysql,js,ts,nodejs,docker&theme=dark&perline=4" />
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCezaF&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+
+
+
 
 ![snake gif](https://raw.githubusercontent.com/GuiCezaF/GuiCezaF/output/snake.svg)
 
