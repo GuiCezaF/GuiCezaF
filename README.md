@@ -5,7 +5,9 @@
 </div>
 
 ## Sobre Mim: 
-Olá, me chamo Guilherme Cezarino Felipe tenho 20 anos de idade e sempre tive interesse em programação e tecnologia, no inicio era apenas um hobby, porém resolvi transformar em uma escolha profissional, iniciando o ano de 2023 com a faculdade de engenharia da computação para poder me aprofundar na área, atualmente estou como estagiário na RETTA TI desenvolvendo e dando manutenção em diversos projetos.
+Olá! Me chamo Guilherme Cezarino Felipe, tenho 22 anos e sou desenvolvedor de software há pouco mais de dois anos. Sempre tive interesse por programação e tecnologia, algo que começou como um hobby e acabou se tornando minha área de atuação.
+
+Tenho experiência com desenvolvimento e manutenção de sistemas, criação de novas funcionalidades e resolução de problemas em aplicações reais. Gosto de aprender novas tecnologias e estou sempre buscando evoluir minhas habilidades e escrever código cada vez mais limpo e eficiente.
 
 ### Contatos
 
