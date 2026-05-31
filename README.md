@@ -24,7 +24,7 @@ Always improving and aiming to grow through real-world experience.
 
 ### Technologies I'm Working With
 <div>
-  <img align="left" src="https://skillicons.dev/icons?i=react,django,py,fastapi,pytorch,laravel,postgres,mysql,js,ts,nodejs,docker&theme=dark&perline=4" />
+  <img align="left" src="https://skillicons.dev/icons?i=react,django,py,fastapi,pytorch,golang,postgres,mysql,js,ts,nodejs,docker&theme=dark&perline=4" />
 </div>
 
 ![snake gif](https://raw.githubusercontent.com/GuiCezaF/GuiCezaF/output/snake.svg)
